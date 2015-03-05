@@ -1,0 +1,24 @@
+run:
+number of classes  62
+number of attributes  7879
+number of instances  558
+F measure is of spam is 0.3333333333333333
+Recall is  of spam is0.2222222222222222
+Precision is  of spam is0.6666666666666666
+
+results
+Correctly Classified Instances         419               75.0896 %
+Incorrectly Classified Instances       139               24.9104 %
+Kappa statistic                          0.7468
+K&B Relative Info Score               9063.309  %
+K&B Information Score                  539.6472 bits      0.9671 bits/instance
+Class complexity | order 0            3322.4415 bits      5.9542 bits/instance
+Class complexity | scheme             2787.1543 bits      4.9949 bits/instance
+Complexity improvement     (Sf)        535.2873 bits      0.9593 bits/instance
+Mean absolute error                      0.0312
+Root mean squared error                  0.1243
+Relative absolute error                 98.4308 %
+Root relative squared error             98.698  %
+Total Number of Instances              558     
+
+BUILD SUCCESSFUL (total time: 75 minutes 31 seconds)
